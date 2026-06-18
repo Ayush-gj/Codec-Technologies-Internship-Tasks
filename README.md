@@ -2,12 +2,12 @@
 
 This repository contains the completion of two technical internship projects.
 
-## 1. Spam Email Classifier
-- **Objective:** Classify text items as Spam or Ham.
-- **Technologies Used:** Python, Scikit-Learn, Pandas, TF-IDF Vectorization, Naive Bayes.
-- **Dataset:** UCI SMS Spam Collection.
+## 1. Chatbot for Customer Service
+- **Objective:** Build an interactive rule-based assistant to resolve common customer support queries dynamically.
+- **Technologies Used:** Python (Native Text Processing & Control Flow), Google Colab Interactive I/O.
+- **Dataset:** In-memory Custom Knowledge Base / Response Dictionary.
 
-## 2. Handwritten Digit Recognizer
-- **Objective:** Classify handwritten single digits (0-9).
-- **Technologies Used:** Python, TensorFlow, Keras, CNN Architecture.
-- **Dataset:** MNIST.
+## 2. Movie Recommendation System
+- **Objective:** Build a content-based filtering engine that suggests similar films based on genre profiles.
+- **Technologies Used:** Python, Pandas, Scikit-Learn (CountVectorizer, Cosine Similarity).
+- **Dataset:** Inline Structured Movie Metadata Dataset.
